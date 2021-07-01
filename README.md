@@ -56,6 +56,7 @@ Course materials for visual basic &amp; visual basic for applications
 ### Revision & Test
 
 ##### Revision
+-	Submit In Class Assignments
 -	Revision for Visual Basic
 -	Revision for Visual Basic for applications with Excel
 
