@@ -55,12 +55,12 @@ Course materials for visual basic &amp; visual basic for applications
 ## Day 6
 ### Revision & Test
 
-##### Revision
+##### Revision (Day 6 1st half)
 -	Submit In Class Assignments
 -	Revision for Visual Basic
 -	Revision for Visual Basic for applications with Excel
 
-##### Test
+##### Test (Day 6 2nd half)
 -	30 minutes assessment on Visual Basic
 -	30 minutes assessment on visual basic for applications with excel
 
