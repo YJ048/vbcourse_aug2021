@@ -38,17 +38,17 @@ Course materials for visual basic &amp; visual basic for applications
 ### Learning Visual Basics
 
 -	VB-L3 - Object properties and methods (Exercises)
--	VB-L4
--	VB-L5
+-	VB-L4 - Algorithms planning and refinement (Exercises)
+-	VB-L5 - Decisions and debugging (Exercises)
 
 #### Total Exercises to submit for VB: 1
 
 ## Day 5
 ### Learning Visual Basics
 
--	VB-L6
--	VB-L7
--	VB-L8
+-	VB-L6 - Looping Constructs and Iteration (Exercises)
+-	VB-L7 - Procedures & Arguments (Part 1) (No Exercises)
+-	VB-L8 - Procedures & Arguments (Part 2) (No Exercises)
 
 #### Total Exercises to submit for VB: 1
 
