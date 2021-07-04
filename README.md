@@ -3,6 +3,10 @@ Course materials for visual basic &amp; visual basic for applications
 
 ![image](https://user-images.githubusercontent.com/22993048/109147028-80d6d380-779f-11eb-822b-4fd458ba3481.png)
 
+#### pre-requisites for the course:
+1. The VB modules can only be done on a windows computer (VB programming meant to build windows application)
+2. Install **visual studio 2019** on your windows computer
+
 # Course Outline
 
 ## Day 1
