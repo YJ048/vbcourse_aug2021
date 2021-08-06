@@ -11,7 +11,7 @@ Course materials for visual basic &amp; visual basic for applications
 
 ## Day 7
 ### Visual Basic.NET Introduction/Using Procedures/Working with Forms
-\
+
 -	VBNET-L1(Exercises)
 -	Setup environment
 -	Variables 
@@ -21,7 +21,7 @@ Course materials for visual basic &amp; visual basic for applications
 -	Arrays Multi-dimensional Arrays
 -	Flow-Control Statements 
 -	Loop Structures 
-\
+-
 -	VBNET-L2(Exercises)
 -	Modular Coding 
 -	Subroutines 
@@ -29,7 +29,7 @@ Course materials for visual basic &amp; visual basic for applications
 -	Arguments 
 -	Argument-Passing Mechanisms 
 -	Event-Handler Arguments 
-\
+-
 -	VBNET-L3(Exercises)
 -	Appearance of Forms 
 -	Properties of Form Control 
@@ -43,17 +43,17 @@ Course materials for visual basic &amp; visual basic for applications
 
 ## Day 8
 ### Windows Controls/More Windows Controls/Building Custom Classes 
-\
+
 -	VBNET-L4(Exercises)
 -	Textbox Control 
 -	ListBox, CheckedListBox and ComboBox Controls
 -	ScrollBar and TrackBar Controls 
-\
+-
 -	VBNET-L5(Exercises)
 -	Common Dialog Controls 
 -	RichTextbox Controls 
 -	RTF Language 
-\
+-
 -	VBNET-L6(Exercises)
 -	Building a class 
 -	A “Real” Class
@@ -69,7 +69,7 @@ Course materials for visual basic &amp; visual basic for applications
 
 ## Day 9
 ### Building Custom Windows Controls/Automation of Microsoft Office Applications 
-\
+
 -	VBNET-L7(Exercises)
 -	Designing Windows Controls 
 -	Enhancing Existing Controls 
@@ -77,7 +77,7 @@ Course materials for visual basic &amp; visual basic for applications
 -	Building User-Drawn Controls 
 -	Designing irregular controls 
 -	Owner-Drawn Controls 
-\
+-
 -	VBNET-L8(Exercises)
 -	Programming Word 
 -	Spellchecking Automation of Documents 
