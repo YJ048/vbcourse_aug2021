@@ -69,27 +69,9 @@ Course materials for visual basic &amp; visual basic for applications; VB.net
 -	30 minutes assessment on Visual Basic
 -	30 minutes assessment on visual basic for applications with excel
 
-## Day 7
+## Day 7 - 10
 ### Learning VB.net
-- put lesson details here
-
-## Day 8
-### Learning VB.net
-- put lesson details here
-
-## Day 9
-### Learning VB.net
-- put lesson details here
-
-## Day 10
-### Learning VB.net
-### Revision & Test
-
-##### Revision (Day 10 1st half)
-- put revision info here
-
-##### Test (Day 10 2nd half)
-- put accessment info here
+- refer to the vb.net folder readme.md file for the course outline for vb.net
 
 ###### Course Materials created by the **Aceninja Pte Ltd**
 ###### Course Materials moderated by **Sayyid Khan**
