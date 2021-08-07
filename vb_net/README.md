@@ -97,13 +97,11 @@ Course materials for visual basic &amp; visual basic for applications
 ## Day 10
 ### Revision & Test
 
-##### Revision (Day 6 1st half)
+##### Revision (Day 10 1st half)
 -	Submit In Class Assignments
--	Revision for Visual Basic
--	Revision for Visual Basic for applications with Excel
+-	Revision for vb.net
 
-##### Test (Day 6 2nd half)
--	30 minutes assessment on Visual Basic
--	30 minutes assessment on visual basic for applications with excel
+##### Test (Day 10 2nd half)
+-	assessment for vb.net
 
 ###### Course Materials created by the **Song Le @ Aceninja Pte Ltd**
