@@ -1,5 +1,5 @@
-# Visual Basic & Visual Basic for Applications Course for Aug 2021
-Course materials for visual basic &amp; visual basic for applications
+# Visual Basic, Visual Basic for Applications & VB.net Course for Aug 2021
+Course materials for visual basic &amp; visual basic for applications; VB.net
 
 ![image](https://user-images.githubusercontent.com/22993048/109147028-80d6d380-779f-11eb-822b-4fd458ba3481.png)
 
@@ -68,6 +68,10 @@ Course materials for visual basic &amp; visual basic for applications
 ##### Test (Day 6 2nd half)
 -	30 minutes assessment on Visual Basic
 -	30 minutes assessment on visual basic for applications with excel
+
+## Day 7 - 10
+### Learning VB.net
+- refer to the vb.net folder readme.md file for the course outline for vb.net
 
 ###### Course Materials created by the **Aceninja Pte Ltd**
 ###### Course Materials moderated by **Sayyid Khan**
