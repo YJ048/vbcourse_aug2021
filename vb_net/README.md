@@ -104,4 +104,4 @@ Course materials for visual basic &amp; visual basic for applications
 ##### Test (Day 10 2nd half)
 -	assessment for vb.net
 
-###### Course Materials created by the **Song Le @ Aceninja Pte Ltd**
+###### Course Materials created by **Song Le @ Aceninja Pte Ltd**
