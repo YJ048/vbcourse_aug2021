@@ -1,4 +1,4 @@
-# Visual Basic, Visual Basic for Applications & VB.net Course for Aug 2021
+# Visual Basic, Visual Basic for Applications & VB.net Course for 2022
 Course materials for visual basic &amp; visual basic for applications; VB.net
 
 ![image](https://user-images.githubusercontent.com/22993048/109147028-80d6d380-779f-11eb-822b-4fd458ba3481.png)
