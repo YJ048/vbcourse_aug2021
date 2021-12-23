@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\bin\Debug\vb_net_1_exercise.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\bin\Debug\vb_net_1_exercise.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\bin\Debug\vb_net_1_exercise.pdb
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\bin\Debug\vb_net_1_exercise.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise\obj\Debug\vb_net_1_exercise.pdb

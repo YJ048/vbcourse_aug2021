@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\bin\Debug\vb_net_1_exercise_40_selectcase.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\bin\Debug\vb_net_1_exercise_40_selectcase.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\bin\Debug\vb_net_1_exercise_40_selectcase.pdb
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\bin\Debug\vb_net_1_exercise_40_selectcase.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_40_selectcase\obj\Debug\vb_net_1_exercise_40_selectcase.pdb
