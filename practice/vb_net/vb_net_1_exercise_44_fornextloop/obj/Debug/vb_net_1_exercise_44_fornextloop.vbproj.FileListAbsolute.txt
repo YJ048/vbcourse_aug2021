@@ -1,0 +1,12 @@
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\bin\Debug\vb_net_1_exercise_44_fornextloop.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\bin\Debug\vb_net_1_exercise_44_fornextloop.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\bin\Debug\vb_net_1_exercise_44_fornextloop.pdb
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\bin\Debug\vb_net_1_exercise_44_fornextloop.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_1_exercise_44_fornextloop\obj\Debug\vb_net_1_exercise_44_fornextloop.pdb
