@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\bin\Debug\vb_net_2.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\bin\Debug\vb_net_2.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\bin\Debug\vb_net_2.pdb
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\bin\Debug\vb_net_2.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\vb_net\vb_net_2\obj\Debug\vb_net_2.pdb
