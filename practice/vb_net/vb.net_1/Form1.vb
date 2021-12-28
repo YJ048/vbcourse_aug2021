@@ -1,5 +1,6 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
         ' 12 - Show infinite result
         'Dim dblVar As Double = 999
         'Dim infVar As Double

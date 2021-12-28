@@ -1,0 +1,13 @@
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\bin\Debug\InfiniteResult.exe.config
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\bin\Debug\InfiniteResult.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\bin\Debug\InfiniteResult.pdb
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\bin\Debug\InfiniteResult.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.vbproj.AssemblyReference.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.Form1.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.Resources.resources
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.vbproj.GenerateResource.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.vbproj.CoreCompileInputs.cache
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.exe
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.xml
+C:\Users\Yang Jing\Documents\GitHub\vbcourse_aug2021\practice\test\InfiniteResult\obj\Debug\InfiniteResult.pdb
